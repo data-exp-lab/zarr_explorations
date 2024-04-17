@@ -5,6 +5,9 @@ useful reading/links
 * https://zarr-specs.readthedocs.io/en/latest/v3/core/v3.0.html#id21
 * https://github.com/zarr-developers/zarr-python/issues/556
 * https://medium.com/pangeo/cloud-performant-netcdf4-hdf5-with-zarr-fsspec-and-intake-3d3a3e7cb935
+* https://github.com/zarr-developers/geozarr-spec
+* https://github.com/ome/ome-zarr-py
+* https://xarray-datatree.readthedocs.io/en/latest/
 
 
 ## notes
