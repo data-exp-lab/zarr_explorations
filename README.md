@@ -9,7 +9,7 @@ useful reading/links
 * https://github.com/ome/ome-zarr-py
 * https://xarray-datatree.readthedocs.io/en/latest/
 * napari generative zarr: [link to relevant part of PR](https://github.com/napari/napari/pull/6043/files#diff-ea6f2d7eb91873fb3e8eddee64be8697d0fb48c158d9a1f41b2e704627b36a63) and the [yt in napari generative zarr experiment](https://github.com/chrishavlin/napari_progressive_yt_experiment)
-
+* https://github.com/manzt/napari-dzi-zarr zarr container for DZI for reading in napari
 
 ## notes
 
