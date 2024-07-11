@@ -19,3 +19,6 @@ useful reading/links
 * grid-based: uniform or stretched grids with no refinement also should be simple-ish 
 * grid-based, refined: refined grids are a little trickier... could implement a custom zarr store that fills at a given refinement level (similar to a YTArbitraryGrid). this would kinda look like napari's generative zarr
 
+### other zarr-related packages
+
+* https://github.com/hms-dbmi/vizarr
