@@ -13,6 +13,11 @@ useful reading/links
 * https://janeliascicomp.github.io/pydantic-ome-ngff/ pydantic models of ome-ngff
 * https://github.com/zarr-developers/zarr-specs/issues/50 zarr specs discussion about storing image pyramids
 
+### 3d zarr pyramid viewing
+* napari
+* https://github.com/napari/napari/issues/513
+* neuroglancer? https://github.com/google/neuroglancer https://www.brainimagelibrary.org/visual.html 
+
 ## notes
 
 ### yt+zarr frontend-related 
