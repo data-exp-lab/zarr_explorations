@@ -12,6 +12,7 @@ useful reading/links
 * https://github.com/manzt/napari-dzi-zarr zarr container for DZI for reading in napari
 * https://janeliascicomp.github.io/pydantic-ome-ngff/ pydantic models of ome-ngff
 * https://github.com/zarr-developers/zarr-specs/issues/50 zarr specs discussion about storing image pyramids
+* https://github.com/cloudnativegeo/cloud-optimized-geospatial-formats-guide/blob/feat/determine-chunking/zarr/determine-chunk-shape.ipynb chunk size optimization
 
 ### 3d zarr pyramid viewing
 * napari
