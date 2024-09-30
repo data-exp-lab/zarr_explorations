@@ -2,7 +2,8 @@ yt[full]
 zarr
 inheritance_explorer
 dask[complete]
-numpy<2
+numpy
 numba
 matplotlib
 jupyterlab
+pyramid-sampler
